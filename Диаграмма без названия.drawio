@@ -1,0 +1,177 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
+  <diagram name="Страница-1" id="UM2uTM8uvNaVMK-h32-O">
+    <mxGraphModel dx="6947" dy="3513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eIPc9lQInWARsgq1S5PC-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Начало процесса" vertex="1">
+          <mxGeometry height="54" width="186" x="1647" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Руководитель создает заявку на вакансию" vertex="1">
+          <mxGeometry height="78" width="260" x="1610" y="414" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-3" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Заявка соответствует требованиям?" vertex="1">
+          <mxGeometry height="278" width="278" x="1601" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="HR утверждает заявку" vertex="1">
+          <mxGeometry height="54" width="224" x="1482" y="906" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Руководитель получает уведомление о доработке" vertex="1">
+          <mxGeometry height="78" width="260" x="1756" y="894" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Вакансия публикуется на сайте компании" vertex="1">
+          <mxGeometry height="78" width="260" x="1464" y="1022" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Кандидаты подают заявки" vertex="1">
+          <mxGeometry height="54" width="254" x="1467" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="HR проверяет анкеты кандидатов" vertex="1">
+          <mxGeometry height="78" width="260" x="1464" y="1254" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-9" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Анкета подходящая?" vertex="1">
+          <mxGeometry height="206" width="206" x="1491" y="1382" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Анкета отклонена" vertex="1">
+          <mxGeometry height="54" width="192" x="1360" y="1674" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Кандидат приглашается на собеседование" vertex="1">
+          <mxGeometry height="78" width="260" x="1602" y="1662" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="HR проводит первичное интервью" vertex="1">
+          <mxGeometry height="78" width="260" x="1602" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Руководитель проводит техническое собеседование" vertex="1">
+          <mxGeometry height="102" width="260" x="1602" y="1918" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-14" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Собеседование пройдено успешно?" vertex="1">
+          <mxGeometry height="278" width="278" x="1593" y="2070" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Предложение оффера кандидату" vertex="1">
+          <mxGeometry height="78" width="260" x="1447" y="2422" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Кандидат получает уведомление об отказе" vertex="1">
+          <mxGeometry height="78" width="260" x="1757" y="2422" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Кандидат подтверждает оффер" vertex="1">
+          <mxGeometry height="78" width="260" x="1447" y="2550" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Система добавляет сотрудника в базу данных" vertex="1">
+          <mxGeometry height="78" width="260" x="1447" y="2678" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-19" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="HR уведомляет IT о настройке рабочего места" vertex="1">
+          <mxGeometry height="78" width="260" x="1447" y="2806" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Конец процесса" vertex="1">
+          <mxGeometry height="54" width="178" x="1488" y="2934" as="geometry" />
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-21" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eIPc9lQInWARsgq1S5PC-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-22" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eIPc9lQInWARsgq1S5PC-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-23" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eIPc9lQInWARsgq1S5PC-4" value="Да">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1594" y="857" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-24" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eIPc9lQInWARsgq1S5PC-5" value="Нет">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1886" y="857" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-25" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eIPc9lQInWARsgq1S5PC-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-26" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eIPc9lQInWARsgq1S5PC-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-27" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eIPc9lQInWARsgq1S5PC-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-28" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eIPc9lQInWARsgq1S5PC-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-29" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" target="eIPc9lQInWARsgq1S5PC-10" value="Нет">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1456" y="1625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-30" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" target="eIPc9lQInWARsgq1S5PC-11" value="Да">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1732" y="1625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-31" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-11" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" target="eIPc9lQInWARsgq1S5PC-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-32" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-12" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" target="eIPc9lQInWARsgq1S5PC-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-33" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-13" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eIPc9lQInWARsgq1S5PC-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-34" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-14" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" target="eIPc9lQInWARsgq1S5PC-15" value="Да">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1577" y="2385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-35" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-14" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" target="eIPc9lQInWARsgq1S5PC-16" value="Нет">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1887" y="2385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-36" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-15" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" target="eIPc9lQInWARsgq1S5PC-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-37" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-17" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" target="eIPc9lQInWARsgq1S5PC-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-38" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-18" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" target="eIPc9lQInWARsgq1S5PC-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIPc9lQInWARsgq1S5PC-39" edge="1" parent="1" source="eIPc9lQInWARsgq1S5PC-19" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" target="eIPc9lQInWARsgq1S5PC-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
